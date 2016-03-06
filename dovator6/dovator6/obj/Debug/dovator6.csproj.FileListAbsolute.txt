@@ -1,0 +1,6 @@
+P:\visual projects\dovator6\dovator6\bin\Debug\dovator6.exe.config
+P:\visual projects\dovator6\dovator6\bin\Debug\dovator6.exe
+P:\visual projects\dovator6\dovator6\bin\Debug\dovator6.pdb
+P:\visual projects\dovator6\dovator6\obj\Debug\dovator6.csprojResolveAssemblyReference.cache
+P:\visual projects\dovator6\dovator6\obj\Debug\dovator6.exe
+P:\visual projects\dovator6\dovator6\obj\Debug\dovator6.pdb
