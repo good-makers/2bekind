@@ -1,2 +1,0 @@
-# 2bekind
-professional project
