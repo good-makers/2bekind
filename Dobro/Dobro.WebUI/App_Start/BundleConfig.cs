@@ -20,19 +20,12 @@ namespace Dobro.WebUI
                         "~/Scripts/modernizr-*"));
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
-                      "~/Scripts/bootstrap.min.js",
-                      "~/Scripts/bootstrap-slider.min.js",
-                      "~/Scripts/jquery.slides.js",
-                      "~/Scripts/jquery.unobtrusive-ajax.min.js",
-                      "~/Scripts/site.js",
+                      "~/Scripts/bootstrap.js",
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.min.css",
-                      "~/Content/Site.css",
-                      "~/Content/media.css",
-                      "~/Content/bootstrap-theme.min.css",
-                      "~/Content/bootstrap-slider.min.css"));
+                      "~/Content/bootstrap.css",
+                      "~/Content/site.css"));
         }
     }
 }

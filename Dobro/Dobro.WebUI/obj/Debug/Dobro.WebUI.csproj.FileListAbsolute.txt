@@ -1,73 +1,210 @@
-P:\visual projects\Dobro\Dobro.WebUI\bin\ApplicationInsights.config
-P:\visual projects\Dobro\Dobro.WebUI\bin\roslyn\csc.exe
-P:\visual projects\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
-P:\visual projects\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
-P:\visual projects\Dobro\Dobro.WebUI\bin\roslyn\System.Collections.Immutable.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\roslyn\System.Reflection.Metadata.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\roslyn\vbc.exe
-P:\visual projects\Dobro\Dobro.WebUI\bin\roslyn\VBCSCompiler.exe
-P:\visual projects\Dobro\Dobro.WebUI\bin\roslyn\VBCSCompiler.exe.config
-P:\visual projects\Dobro\Dobro.WebUI\bin\Dobro.WebUI.dll.config
-P:\visual projects\Dobro\Dobro.WebUI\bin\Dobro.WebUI.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\Dobro.WebUI.pdb
-P:\visual projects\Dobro\Dobro.WebUI\bin\Antlr3.Runtime.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\Dobro.Domain.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\EntityFramework.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\EntityFramework.SqlServer.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.DependencyCollector.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.Web.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.WindowsServer.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\Microsoft.ApplicationInsights.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\Microsoft.Web.Infrastructure.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\Newtonsoft.Json.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\System.Web.Helpers.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\System.Web.Mvc.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\System.Web.Optimization.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\System.Web.Razor.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\System.Web.WebPages.Deployment.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\System.Web.WebPages.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\System.Web.WebPages.Razor.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\WebGrease.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\Dobro.Domain.pdb
-P:\visual projects\Dobro\Dobro.WebUI\bin\EntityFramework.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\EntityFramework.SqlServer.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.DependencyCollector.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.Web.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.WindowsServer.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\Microsoft.ApplicationInsights.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\System.Web.Helpers.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\System.Web.Mvc.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\System.Web.Optimization.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\System.Web.Razor.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\System.Web.WebPages.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\System.Web.WebPages.Deployment.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\System.Web.WebPages.Razor.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\Antlr3.Runtime.pdb
-P:\visual projects\Dobro\Dobro.WebUI\bin\Newtonsoft.Json.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\ru\System.Web.Helpers.resources.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\ru\System.Web.Mvc.resources.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\ru\System.Web.Optimization.resources.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\ru\System.Web.Razor.resources.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\ru\System.Web.WebPages.resources.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
-P:\visual projects\Dobro\Dobro.WebUI\obj\Debug\Dobro.WebUI.csprojResolveAssemblyReference.cache
-P:\visual projects\Dobro\Dobro.WebUI\obj\Debug\Dobro.WebUI.dll
-P:\visual projects\Dobro\Dobro.WebUI\obj\Debug\Dobro.WebUI.pdb
-P:\visual projects\Dobro\Dobro.WebUI\bin\Ninject.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\Ninject.Web.Common.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\Ninject.Web.Mvc.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\WebActivatorEx.dll
-P:\visual projects\Dobro\Dobro.WebUI\bin\Ninject.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\Ninject.Web.Common.xml
-P:\visual projects\Dobro\Dobro.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ApplicationInsights.config
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\roslyn\csc.exe
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\roslyn\vbc.exe
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Dobro.WebUI.dll.config
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Dobro.WebUI.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Dobro.WebUI.pdb
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Dobro.Domain.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\EntityFramework.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Owin.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\System.Web.Razor.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\WebGrease.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Dobro.Domain.pdb
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\System.Web.Optimization.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\System.Web.Razor.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\EntityFramework.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\EntityFramework.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\obj\Debug\Dobro.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\obj\Debug\Dobro.WebUI.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\obj\Debug\Dobro.WebUI.pdb
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\obj\Debug\Dobro.WebUI.Migrations.Initial.resources
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.WebUI\obj\Debug\Dobro.WebUI.csproj.GenerateResource.Cache
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ApplicationInsights.config
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\roslyn\csc.exe
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\roslyn\vbc.exe
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Dobro.WebUI.dll.config
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Dobro.WebUI.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Dobro.WebUI.pdb
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Dobro.Domain.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\EntityFramework.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Owin.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\System.Web.Razor.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\WebGrease.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Dobro.Domain.pdb
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\System.Web.Optimization.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\System.Web.Razor.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\EntityFramework.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\EntityFramework.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\obj\Debug\Dobro.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\obj\Debug\Dobro.WebUI.Migrations.Initial.resources
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\obj\Debug\Dobro.WebUI.csproj.GenerateResource.Cache
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\obj\Debug\Dobro.WebUI.dll
+C:\Users\Jon\Desktop\Dobro\Dobro.WebUI\obj\Debug\Dobro.WebUI.pdb
