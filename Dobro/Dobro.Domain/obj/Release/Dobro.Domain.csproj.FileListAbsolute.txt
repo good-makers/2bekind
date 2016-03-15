@@ -1,0 +1,12 @@
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.Domain\bin\Release\Dobro.Domain.dll.config
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.Domain\bin\Release\Dobro.Domain.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.Domain\bin\Release\Dobro.Domain.pdb
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.Domain\bin\Release\EntityFramework.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.Domain\bin\Release\EntityFramework.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.Domain\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.Domain\bin\Release\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.Domain\obj\Release\Dobro.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.Domain\obj\Release\Dobro.Domain.dll
+C:\Users\Dmitry\documents\visual studio 2015\Projects\Dobro\Dobro.Domain\obj\Release\Dobro.Domain.pdb
